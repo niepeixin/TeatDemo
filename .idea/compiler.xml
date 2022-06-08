@@ -9,6 +9,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="001" target="1.7" />
       <module name="vue-demo" target="8" />
     </bytecodeTargetLevel>
   </component>
